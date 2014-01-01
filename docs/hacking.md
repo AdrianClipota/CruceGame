@@ -123,7 +123,7 @@ Please document your names and your e-mail addresses.
 
 * Sarvsav Sharma (<sarvsav@gmail.com>)
 
-
+*Adrian Clipota (<adiclipota@gmail.com>)
 Contributors
 =======
 
